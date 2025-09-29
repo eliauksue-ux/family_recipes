@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma.
 
-* Pizas (TODO)
+* Pizzas (TODO)
 * Sauces (TODO)
-* reads (TODO)
+* Spreads (TODO)
